@@ -61,8 +61,3 @@ If you have multiple touchscreen devices, modify the PowerShell script to target
 
 🧡 Credits
 Crafted with ❤️ and PowerShell for convenience and control.
-
-
----
-
-Let me know if you want a stylized version for GitHub or if you're planning to distribute it as a utility — I can help polish it up even more!
