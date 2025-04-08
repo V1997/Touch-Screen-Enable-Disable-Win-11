@@ -5,10 +5,11 @@ This script allows you to **enable or disable the "HID-compliant touch screen"**
 ---
 
 ## 📦 Folder Structure
-📁 Toggle_Touch_Screen/ 
-├── Toggle_Screen/ 
-│ └── toggle_touchscreen.ps1 
-└── toggle_touchscreen.bat
+📁 Toggle_Touch_Screen/  
+├── Toggle_Screen/  
+│   └── toggle_touchscreen.ps1  
+└── toggle_touchscreen.bat  
+
  
 
 ---
